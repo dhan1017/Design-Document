@@ -1,0 +1,62 @@
+[TOC]
+>
+---
+>
+### Game Design
+>
+#### Objective
+[explain the goal of the game]
+>
+#### Gameplay Mechanics
+[detail the game mechanics, do not include anything about theme/artwork]
+>
+#### Level Design
+[describe what a typical level or puzzle would look like]
+>
+[Back to top ^](#)
+>
+---
+>
+### Technical
+>
+#### Scenes
+* [list the different scenes/screens used in the game]
+>
+#### Controls/Input
+[describe the control scheme used in the game]
+>
+#### Components/Non-Component Scripts
+* Components
+  * [list Components needed and some basic information about required implementation]
+* Non-Component Scripts
+  * [list Non-Component Script files you will need to create]
+>
+[Back to top ^](#)
+>
+---
+>
+### MVP Milestones
+[The overall milestones of first playable build, core gameplay, and polish are just suggestions, plan to finish earlier if possible. The last 20% of work tends to take about as much time as the first 80% so do not slack off on your milestones!]
+>
+#### Day 1, Part 1
+_planing your game_
+* [goals for the first half of the day]
+>
+#### Day 1, Part 2
+_finishing a playable build_
+* [goals for the second half of the day, should be finishing a playable game]
+>
+#### Day 2, Part 1
+* [goals for the 1st half of the day]
+>
+#### Day 2, Part 2
+* [goals for the 2nd half of the day, should be finishing all core gameplay]
+>
+#### Day 3, Part 1
+_starting the polish_
+* [goals for the 1st half of the day]
+>
+#### Day 3, Part 2
+* [goals for the 2nd half of the day, should be finishing the polish]
+>
+[Back to top ^](#)
